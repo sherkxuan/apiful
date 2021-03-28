@@ -1,0 +1,16 @@
+{
+    "name": "sherk/apitool",
+    "description": "this is test!",
+    "version":"1.0.0",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Sherk\\Tool\\": "./src"
+        }
+    }
+}
